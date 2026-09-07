@@ -19,7 +19,7 @@ No build step, no install. It's a single static HTML file using React via CDN.
   python3 -m http.server 8000
   # then visit http://localhost:8000
   ```
-- **On GitHub Pages:** push this repo to GitHub, then in **Settings → Pages**, set the source to the `main` branch, root folder. Your live URL will be `https://<your-username>.github.io/smartsync/`.
+- **On GitHub Pages:** push this repo to GitHub, then in **Settings → Pages**, set the source to the `main` branch, root folder.
 
 ## Structure
 
